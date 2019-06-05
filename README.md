@@ -1,9 +1,9 @@
-# facebook-pixel
+# Lucky Orange
 
-VTEX Facebook Pixel first-party app
+Lucky Orange first-party app.
 
 ## How to install
 
 Open the VTEX App Store and install this app on your store.
 
-Now, open the app settings on your admin and fill in the Facebook Pixel id.
+Now, open the app settings on your admin and fill your Lucky Orange`s Site ID.
